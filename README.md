@@ -35,6 +35,6 @@
 # ERD
 
 # Wireframes
-<img src="https://i.imgur.com/5GJsJDi.png" width="800" height="600">
-<img src="https://i.imgur.com/Cxmebxb.png" width="800" height="600">
-<img src="https://i.imgur.com/gDWqafS.png" width="800" height="600">
+<img src="https://i.imgur.com/5GJsJDi.png" width="800" height="400">
+<img src="https://i.imgur.com/Cxmebxb.png" width="800" height="400">
+<img src="https://i.imgur.com/gDWqafS.png" width="800" height="400">
